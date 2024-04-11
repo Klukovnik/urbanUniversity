@@ -1,5 +1,6 @@
-def print_params(arg):
-    print(arg)
+def print_params(anything):
+    print(anything)
+    print(anything)
 
 print()
 print_params('apple')
